@@ -1,0 +1,10 @@
+.product{
+    border:1px solid darkgrey;
+    margin:10px;
+    padding:10px;
+    width: 300px;
+    list-style:none;
+}
+.product img{
+    width:80%;
+}
