@@ -28,6 +28,7 @@ const renderProducts = products => {
                  <p>${price}</p> 
                  <p>${category}</p>
                  <button data-id="${id}">See Details</button>
+                 <button add-cart="${id}">Add to cart</button>
                 </li>`
     ))
     productListEl.innerHTML = template.join('');
