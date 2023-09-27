@@ -8,3 +8,7 @@
 .product img{
     width:80%;
 }
+.product-stuff{
+    display: flex;
+   
+}
